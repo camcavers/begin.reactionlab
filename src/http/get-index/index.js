@@ -17,11 +17,11 @@ exports.handler = async function Index () {
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: 'cameron@reactionlab.com',
+    twitter: 'camcavers',
+    linkedin: 'camcavers',
+    instagram: 'camcavers',
+    facebook: 'camcavers',
 
     /**
      * Layout
